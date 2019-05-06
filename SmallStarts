@@ -1,0 +1,4 @@
+Hi = "Hi Kids"
+Hook = "im Carlo"
+Hi = Hi + Hook
+print(Hi)
